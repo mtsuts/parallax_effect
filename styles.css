@@ -1,0 +1,72 @@
+body {
+  margin: 30px 50px;
+  font-family: "Gilroy-Medium";
+}
+
+.menu-header {
+  display: flex
+}
+
+.header-right {
+  margin-left: 700px;
+}
+
+a {
+  text-decoration: none;
+  color: #2C2C2C;
+  margin: 10px;
+  font-size: 14px;
+}
+
+.investors-sign-in {
+  width: 145px;
+  height: 54px;
+  border: none;
+  background-color: #246AF9;
+  color: #ffffff
+}
+
+.title {
+  width: 546px;
+  height: 231px;
+  font-size: 60px;
+  margin-left: 140px;
+  margin-top: 80px;
+}
+
+.small-title {
+  /* margin-left: 140px; */
+  font-size: 20px;
+}
+
+.pond {
+  color: #246AF9;
+}
+
+.image-first {
+  margin-top: 10px;
+  position: absolute;
+  top: 470px;
+  margin-left:100px;
+}
+
+.img-first {
+  width: 450px;
+  height: 620px;
+}
+
+.first-section {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.image-second {
+  margin-top: 50px;
+}
+
+.img-second {
+  width: 550px;
+  height: 620px;
+  margin-right:50px;
+}
